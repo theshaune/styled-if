@@ -1,7 +1,7 @@
 {
   "name": "styled-if",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.12",
+  "description": "Styled If is a simple function that helps you organize code in styled-components.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

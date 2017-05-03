@@ -4,13 +4,19 @@ Styled If is a simple function that helps you organize code in [styled-component
 
 If a prop is defined on the component and matched then the css in the style parameter will be applied.
 
+## Installation
+
+```
+npm install styled-if --save
+```
+
 ## Usage
 
-```JS
+```js
 styledIf(match: string, styles: string);
 ```
 
-```JSX
+```js
 import styled, { css } from 'styled-components';
 import styledIf from 'styled-if';
   
